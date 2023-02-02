@@ -1,2 +1,32 @@
 # gtbootcamp_team2_project1
 Repo for Team 2 project 1
+
+Data from used from Kaggle dataset "Global Cost of Living"
+
+The data was pulled into a jupyter notebook & cleaned to include only cities in the US.  
+
+The data was then organized to be able to used for analysis.
+
+Visualizations & analysis were done in several jupyter notebooks.  The description of the notebooks in the repo
+along with the inputs and outputs of those files is included for reference.
+
+
+Notebook:  Cost_of_liv_project.ipynb (data importing & cleaning)
+    input file: cost-of-living_v2.csv (original dataset from Kaggle)
+    output files: output_cost_of_living.csv  &  output_expense_breakdown.csv
+    
+Notebook:  state_v2.ipynb (utilized APIs to add state & population data)
+    input file: output_expense_breakdown.csv
+    output files: output_expense_breakdown_states_pop.csv  
+    
+Notebook:  Visualizations.ipynb (analysis & output of visuals of data)
+    input file: output_expense_breakdown_states_pop.csv
+    output files: visuals
+    
+Notebook:  Trending_Expense_by_State.ipynb (analysis & output of visuals of data)
+    input file: output_expense_breakdown_states_pop.csv
+    output files: visuals
+    
+Notebook:  Libby_visuals.ipynb (analysis & output of visuals of data)
+    input file: output_expense_breakdown_states_pop.csv
+    output files: visuals
