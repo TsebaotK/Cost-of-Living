@@ -1,5 +1,5 @@
 # gtbootcamp_team2_project1
-Repo for Team 2 project 1
+Repo for Team 2 (Data Ninjas) project 1
 
 Data from used from Kaggle dataset "Global Cost of Living"
 
