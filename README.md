@@ -3,12 +3,19 @@ Repo for Team 2 project 1
 
 Data from used from Kaggle dataset "Global Cost of Living"
 
+We were interested in looking at this data because many of us may be looking for new employment opportunities and wanted to begin understanding where we may want to concentrate on when looking for jobs.
+
+Questions that came to mind when we embarked on this project were:
+    -how does cost of living vary by state
+    -what are the main drivers for varying cost of living
+    -does geography play a role in the cost of living
+
 The data was pulled into a jupyter notebook & cleaned to include only cities in the US.  
 
 The data was then organized to be able to used for analysis.
 
 Visualizations & analysis were done in several jupyter notebooks.  The description of the notebooks in the repo
-along with the inputs and outputs of those files is included for reference.
+along with the inputs and outputs of those files are included below for reference.
 
 
 Notebook:  Cost_of_liv_project.ipynb (data importing & cleaning)
